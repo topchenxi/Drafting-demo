@@ -13,7 +13,7 @@
 
 
     Drag.prototype = {
-        // constructor: Drag,
+        constructor: Drag,
 
         init: function() {
             this.setDrag();
